@@ -9,7 +9,7 @@ We explored the impact of shape on chocolate taste perception, a less-studied fa
 
 ```bibtex
 @article{osx2023chocolate,
-  title={Perceived Taste of Bouba-Kiki Chocolate]{The Influence of Bouba- and Kiki-like Shape on Perceived Taste of Chocolate Pieces},
+  title={The Influence of Bouba- and Kiki-like Shape on Perceived Taste of Chocolate Pieces},
   author={Ogata, Kazuhiro and Gakumi, Reo and Hashimoto, Atsushi and Ushiku, Yoshitaka and Yoshida, Shigeo},
   journal={Frontiers in Psychology},
   volume={14},
